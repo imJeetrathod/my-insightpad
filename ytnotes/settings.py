@@ -28,7 +28,7 @@ DEBUG = True
 
 # settings.py
 
-ALLOWED_HOSTS = ['.vercel.app']
+ALLOWED_HOSTS = ['.vercel.app','insightpad.jeetrathod.me']
 
 
 
